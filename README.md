@@ -6,7 +6,9 @@
 
 ✨ Curious, a lifelong learner, and a technology enthusiast.
 ---
+
 ## 🛠️ Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
