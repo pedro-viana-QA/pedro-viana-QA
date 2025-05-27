@@ -1,5 +1,5 @@
 ## Hi there, Pedro's here! 👋
-** `QA Analyst and future QA Automation Engineer` **
+**`QA Analyst and future QA Automation Engineer`**
 
 💻 I'm passionate about software quality, API testing, and automation.
 
