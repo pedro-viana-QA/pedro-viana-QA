@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Pedro!
 
-💻 I'm a QA Analyst and future QA Automation Engineer passionate about software quality, API testing, and automation.
+💻 I'm a ```QA Analyst and future QA Automation Engineer``` passionate about software quality, API testing, and automation.
 
 🎯 Currently focused on mastering JavaScript and API Testing.
 
