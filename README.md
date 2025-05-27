@@ -10,12 +10,12 @@
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![JavaScript](https://img.icons8.com/?size=100&id=106036&format=png&color=FFDE00)
+![Postman](https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000)
+![SQL](https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000)
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 <br>
 
 ## Conect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrovianaqa/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedro.viana23@hotmail.com.com)
+[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://linkedin.com/in/pedrovianaqa/)
+[![Email](https://img.icons8.com/?size=100&id=MALg5O8gNn2g&format=png&color=000000)](mailto:pedro.viana23@hotmail.com.com)
