@@ -1,11 +1,11 @@
 ## Hi there, Pedro's here! 👋
 ***`QA Analyst and future QA Automation Engineer`***
 
-💻 I'm passionate about software quality, API testing, and automation.
+### 💻 I'm passionate about software quality, API testing, and automation.
 
-🎯 Currently focused on mastering JavaScript and API Testing.
+### 🎯 Currently focused on mastering JavaScript and API Testing.
 
-✨ Curious, a lifelong learner, and a technology enthusiast.
+### ✨ Curious, a lifelong learner, and a technology enthusiast.
 <br>
 
 ## 🛠️ Tech Stack
