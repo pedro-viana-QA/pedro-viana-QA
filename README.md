@@ -1,3 +1,6 @@
+![Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner](https://github.com/user-attachments/assets/693657cf-7380-464b-9f2f-396bacaf1f07)
+
+
 ## Hi there, Pedro's here! 👋
 ***`QA Analyst and future QA Automation Engineer`***
 
