@@ -1,9 +1,5 @@
 ```javascript
-function test(){
-  return "let's test it"
-}
-
-console.log(test())
+                                                                  console.log("let's test it")
 ```
 
 
