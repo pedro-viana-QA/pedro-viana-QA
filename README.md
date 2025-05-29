@@ -1,4 +1,10 @@
-![Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner](https://github.com/user-attachments/assets/693657cf-7380-464b-9f2f-396bacaf1f07)
+```javascript
+function test(){
+  return "let's test it"
+}
+
+console.log(test())
+```
 
 
 ## Hi there, Pedro's here! 👋
